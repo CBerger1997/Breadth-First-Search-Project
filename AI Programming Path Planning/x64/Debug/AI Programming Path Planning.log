@@ -1,0 +1,8 @@
+﻿Build started 08-Jan-17 12:48:09 AM.
+     1>Project "C:\Users\Callum\Documents\Visual Studio 2015\Projects\AI Programming Path Planning\AI Programming Path Planning\AI Programming Path Planning.vcxproj" on node 2 (Build target(s)).
+     1>C:\Program Files (x86)\MSBuild\Microsoft.Cpp\v4.0\V110\Microsoft.Cpp.Platform.targets(44,5): error MSB8020: The builds tools for v140 (Platform Toolset = 'v140') cannot be found. To build using the v140 build tools, either click the Project menu or right-click the solution, and then select "Update VC++ Projects...". Install v140 to build using the v140 build tools.
+     1>Done Building Project "C:\Users\Callum\Documents\Visual Studio 2015\Projects\AI Programming Path Planning\AI Programming Path Planning\AI Programming Path Planning.vcxproj" (Build target(s)) -- FAILED.
+
+Build FAILED.
+
+Time Elapsed 00:00:00.01
